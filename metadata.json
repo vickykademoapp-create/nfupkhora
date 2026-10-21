@@ -1,0 +1,6 @@
+{
+  "name": "NIIT Foundation App",
+  "description": "Comprehensive digital learning, attendance, course delivery, and vocational training portal for NIIT Foundation students, teachers, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
